@@ -253,27 +253,6 @@ The extension does **not** submit the form automatically.
 
 ---
 
-## Troubleshooting
-
-### The images do not appear in GitHub README
-
-Make sure the image files are uploaded inside the `assets` folder and that the names match exactly:
-
-```text
-assets/edge-extension-installed.png
-assets/edge-site-permission.png
-assets/load-unpacked-button.png
-assets/extension-popup-arabic.png
-```
-
-The image path in `README.md` must look like this:
-
-```markdown
-![Extension popup](assets/extension-popup-arabic.png)
-```
-
----
-
 ### The extension does not appear in the toolbar
 
 Click the extensions icon in the browser toolbar and pin the extension.
