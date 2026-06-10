@@ -216,19 +216,6 @@ This is normal when loading an unpacked extension manually using Developer Mode.
 ---
 
 
-You can use these commands:
-
-```bash
-git init
-git add .
-git commit -m "Initial release"
-git branch -M main
-git remote add origin https://github.com/MJK-0/university-evaluation-helper.git
-git push -u origin main
-```
-
-
----
 
 ## Important Notes
 
