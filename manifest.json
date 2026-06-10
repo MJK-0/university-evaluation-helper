@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "مساعد تقييمات الجامعة",
+  "description": "تحديد خيار موحد في نماذج التقييم بسرعة، بدون إرسال تلقائي.",
+  "version": "1.0.0",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "مساعد التقييم",
+    "default_popup": "src/popup.html"
+  }
+}
